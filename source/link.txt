@@ -1,7 +1,4 @@
-Michael Pron@IFOZR-DP-IT MINGW64 ~/Desktop
-$ rm -r test
-rm: remove write-protected regular file 'test/.git/objects/04/7c90e97d1c9e8c0d357644901110437c1be84a'? git rm -r test
-rm: remove write-protected regular file 'test/.git/objects/04/bbd0fa1643bc51004115af00052bb00f3e1718'?
+"C:\Users\Michael Pron\AppData\Local\Programs\Git\git-bash.exe" --cd-to-home
 
 "C:\Users\Michael Pron\AppData\Local\Programs\Git\git-bash.exe" --cd-to-home
 
