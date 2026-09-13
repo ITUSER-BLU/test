@@ -1,5 +1,5 @@
-"C:\Users\Michael Pron\AppData\Local\Programs\Git\git-bash.exe" --cd-to-home
+1. "C:\Users\Michael Pron\AppData\Local\Programs\Git\git-bash.exe" --cd-to-home
 
-"C:\Users\Michael Pron\AppData\Local\Programs\Git\git-bash.exe" --cd-to-home
+2. "C:\Users\Michael Pron\AppData\Local\Programs\Git\git-bash.exe" --cd-to-home
 
-"C:\Users\Michael Pron\AppData\Local\Programs\Git\git-bash.exe" --cd-to-home
+3. "C:\Users\Michael Pron\AppData\Local\Programs\Git\git-bash.exe" --cd-to-home
